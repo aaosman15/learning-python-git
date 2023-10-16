@@ -1,7 +1,8 @@
 print("Welcome to the rollercoaster!")
 height = int(input("what is your height in cm? "))
 
-# testing 
+# testing
+# testing 3
 try:
     if height >= 120:
         print("You can ride the rollercoaster")
