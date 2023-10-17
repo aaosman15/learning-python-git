@@ -7,7 +7,7 @@ try:
     if height >= 120:
         print("You can ride the rollercoaster")
         age = int(input("What is your age? "))
-        if age < 12:
+        if age < 13:
             print("Please pay $5")
         elif age <= 18:
             print("Please pay $8")
